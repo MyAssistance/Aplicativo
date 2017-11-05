@@ -1,0 +1,4 @@
+Deixar a criação do apk de maneira fácil.
+
+https://www.nativescript.org/blog/steps-to-publish-your-nativescript-app-to-the-app-stores
+
