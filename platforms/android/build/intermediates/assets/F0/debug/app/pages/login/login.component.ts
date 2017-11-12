@@ -21,6 +21,8 @@ export class LoginComponent {
     this.router.navigate(["/list"]);
   }
 
-
+   recoverPassword() {
+    this.router.navigate(["/recoverPassword"]);
+  }
 
 }

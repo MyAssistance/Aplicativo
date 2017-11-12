@@ -1,4 +1,4 @@
-#Sun Nov 05 17:49:58 BRST 2017
+#Sun Nov 12 14:44:36 BRST 2017
 base.0=E\:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=E\:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex

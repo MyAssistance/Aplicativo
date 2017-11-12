@@ -4,6 +4,8 @@ E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\ass
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\main.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\list\list.component.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\login\login.component.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\recover-password\recover-password.component.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\welcome-screen\welcome-screen.component.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\shared\config.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\shared\user\user.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\shared\user\user.service.js
