@@ -5,6 +5,8 @@ E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\ass
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\list\list.component.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\login\login.component.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\recover-password\recover-password.component.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\settings\settings.component.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\settings\settings.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\pages\welcome-screen\welcome-screen.component.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\shared\config.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\shared\user\user.js
@@ -65,9 +67,15 @@ E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\ass
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\text-value-accessor.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\value-accessors\time-value-accessor.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-angular\zone-js\dist\zone-nativescript.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-gradient\gradient-common.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-gradient\gradient.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\index.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl-common.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-intl\nativescript-intl.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\nativescript-ngx-fonticon.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\main.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\pipes\fonticon.pipe.js
+E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\nativescript-ngx-fonticon\src\app\services\fonticon.service.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
 E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application.js

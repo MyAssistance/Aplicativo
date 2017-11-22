@@ -10,14 +10,20 @@ import { Router } from "@angular/router";
 })
 export class RecoverPasswordComponent {
 	user: User;
+  page: Page;
 
 	constructor(private router: Router, page: Page) {
         page.actionBarHidden = true;
+        this.page = page
         this.user = new User();
     }
 
+  ngOnInit() {
+    this.page.actionBarHidden = true;
+    //this.page.backgroundImage = "res://bg_login";
+  }
+
   submit() {
-    alert("Email enviado paraa: " + this.user.email);
     this.router.navigate(["/"]);
   }
 }

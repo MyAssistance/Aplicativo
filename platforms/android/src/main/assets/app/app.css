@@ -1,8 +1,7 @@
-Page {
-  background-color: white;
-  font-size: 15;
+.fa {
+  font-family: FontAwesome, fontawesome-webfont;
 }
-TextField {
-  padding: 10;
-  font-size: 13;
+
+*{
+	font-family: Roboto-Regular;
 }

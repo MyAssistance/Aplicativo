@@ -1,63 +1,11 @@
 [
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
-    },
-    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\banana.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\banana.png"
     },
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\selected.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\selected.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\selected.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\selected.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\delete.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\delete.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\delete.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\delete.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo_login.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_login.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\checked_white.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\checked_white.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\nonselected.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\nonselected.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\checked_white.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\checked_white.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\apple.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\apple.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\unchecked.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\unchecked.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\unchecked.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\unchecked.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo_login.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_login.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\banana.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\banana.png"
     },
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\add.png",
@@ -68,12 +16,12 @@
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\pear.png"
     },
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\pear.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\pear.png"
-    },
-    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\nonselected.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\nonselected.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon2.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon2.png"
     },
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\recent.png",
@@ -84,14 +32,6 @@
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_signup.png"
     },
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\checked.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\checked.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\unchecked_white.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\unchecked_white.png"
-    },
-    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\apple.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\apple.png"
     },
@@ -100,31 +40,35 @@
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\menu.png"
     },
     {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\delete.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\delete.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\checked.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\checked.png"
     },
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\menu.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\menu.png"
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\bg_login.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\bg_login.png"
     },
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\unchecked_white.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\unchecked_white.png"
     },
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\recent.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\recent.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\add.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\add.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo_signup.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_signup.png"
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\checked_white.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\checked_white.png"
     },
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\unchecked.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\unchecked.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo_login.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_login.png"
     }
 ]
