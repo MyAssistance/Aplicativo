@@ -1,13 +1,60 @@
-.add-bar {
-  background-color: #CB1D00;
-  padding: 5 10;
+.settings-buttons {
+    color: #494949;
+    line-height: normal;
+    background-color: transparent;
+    
+    font-size: 13px;  
+    font-family: Roboto-Regular;
+
+    text-transform: none;
+    background: gray;
+    border-color: gray;
+    border-width: 2;
+    margin-top: 20px;
+   	padding-top: 60px;
+   	padding-bottom: 60px;
+  }
+
+.settings-labels{
+    padding-top: 50px;
+    margin-left: 19px;
+    line-height: normal;
+    font-size: 13px;
+    font-family: Roboto-Medium;
+    font-weight: 500;
+    color: #38425B;
 }
-.add-bar Image {
-  height: 15;
+
+.settings-stack{
+  padding: 20px;
+}
+
+.app-head{
+    font-family: Roboto-Regular;
+    font-size: 17px;
+    color: #FFFFFF;
+    text-align: center;
+    border-color: #3A4660;
+    border-top-width: 50px;
+    border-bottom-width: 50px;
+    border-style: solid; 
+    box-shadow: 0px 0.5px 0px #B2B2B2;
+}
+
+.nav{
+  text-align: center;
+  font-size: 26;
   vertical-align: center;
-  margin-left: 10;
-  margin-right: 5;
+  color: #3A4660;
+  padding: 10px;
+    border-bottom-width: 2px;
+  border-color: #3A4660;  
+
 }
-TextField {
-  color: white;
+
+.navu{
+	  border-bottom-color: #E0E0E0;
+  border-bottom-width: 1px;  
+ 
 }
+

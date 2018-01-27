@@ -40,6 +40,10 @@
         "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\checked.png"
     },
     {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\icon2.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon2.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\unchecked_white.png",
         "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\unchecked_white.png"
     },

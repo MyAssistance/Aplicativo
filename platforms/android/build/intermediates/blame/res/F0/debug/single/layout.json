@@ -20,12 +20,12 @@
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_navigation_item.xml",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_alert_dialog_title_material.xml",
@@ -88,16 +88,16 @@
         "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_menu_item_action_area.xml",

@@ -1,1 +1,52 @@
-<Label text="Hello world"></Label>
+<StackLayout> 
+		<Label text="Atendimentos" backgroundColor="#3A4660" verticalAlignment="center"  class="app-head"> </Label>
+
+	<StackLayout class="settings-stack"> 
+		<GridLayout rows="auto" columns="*,*">
+
+
+		    <Label
+		        col="0"
+		        class="fa nav"
+		        style="text-align: center;"
+		        [text]="'fa-tasks' | fonticon">
+		    </Label>
+
+
+
+		    <Label (tap)="goConfig()"
+		        col="1"
+		        class="fa nav navu"
+		        [text]="'fa-user' | fonticon">
+		    </Label>
+
+		
+	  	</GridLayout>
+	
+	<RL:Ripple>
+		<Button text="Atendimento 1" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Atendimento 2" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Atendimento 3" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Atendimento 4" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Atendimento 5" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Atendimento 6" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+</StackLayout>
+
+</StackLayout>

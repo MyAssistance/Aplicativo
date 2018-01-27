@@ -8,7 +8,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_bcb11731d0da7002a144522412554d66e6f8bea0.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-26.0.0-alpha1_bcb11731d0da7002a144522412554d66e6f8bea0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,7 +17,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_26f01d19ef4504813431de20cb6c3a77816d494c.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-26.0.0-alpha1_26f01d19ef4504813431de20cb6c3a77816d494c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,7 +26,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_476146a1d1824d559f3ea9188cbf3cef3b289742.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-26.0.0-alpha1_476146a1d1824d559f3ea9188cbf3cef3b289742.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,124 +35,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_5a3d7254f1d1d8d0f43bc1e85ad3fe6f93210d08.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_b19b51cf9ffa8ab4bc54a2fe953693b86bbe91d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_d55ac31ac0241ce7603d42c9e07b5987d1159947.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_558cde433e2e59fd1e7e15cd51b0f33cfe9bdfed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_fcbbd9ce6707eeedc18b4d1f432ecd1338f84319.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_1c022058780076be9ac2e6025412cfc6da1f99b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_46a3900e5fa5e3ba0f7dedbc0e875ad53b575d19.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_964a5bb7d571ee688965d72d926064272bba8672.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_2af5460cc9259cfad387398c7e2c9259b66ec3bd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_748e66537a7a338c07ebf70c5c8a8a27e549fd7d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_913232022729ff30b534883a2b309c17a27d95f5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_bbb25d22046e30efd2d190756fa9909646f82581.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_a4194fc39f08b8a3f251e9572210cc05aa5431d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_99fad9fbcdcddc76d8c3a24f14c0694356139426.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_5a3d7254f1d1d8d0f43bc1e85ad3fe6f93210d08.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,34 +44,52 @@
         optimize="true"
         revision="25.0.2"
         sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_d316b450227ab98dce9db9651c4e2a24d04e57f5.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-26.0.0-alpha1_d316b450227ab98dce9db9651c4e2a24d04e57f5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_09641b98981e43cbc6e1baf888a384e979ec283a.jar" />
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-26.0.0-alpha1_b19b51cf9ffa8ab4bc54a2fe953693b86bbe91d1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_28d42f9bc346452e3682750df5d83ee4a4c0ad65.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_5df04978ec966a627c380a656d1fc93c9f814cb1.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_d55ac31ac0241ce7603d42c9e07b5987d1159947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_558cde433e2e59fd1e7e15cd51b0f33cfe9bdfed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-26.0.0-alpha1_fcbbd9ce6707eeedc18b4d1f432ecd1338f84319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_1c022058780076be9ac2e6025412cfc6da1f99b6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,7 +98,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_ae200836d31deda989762e99c6ddc632eb11af73.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-26.0.0-alpha1_ae200836d31deda989762e99c6ddc632eb11af73.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,7 +107,16 @@
         optimize="true"
         revision="25.0.2"
         sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_75abd85f5f9607144f5095326cac86dbcbdde190.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-26.0.0-alpha1_75abd85f5f9607144f5095326cac86dbcbdde190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_46a3900e5fa5e3ba0f7dedbc0e875ad53b575d19.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,43 +125,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_06ffd2f64f181a08e5c989e0b5814308b42f63ff.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_44878434076319fc4d83ae0aedeb14b144e561a2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_c139ce7b2b594140708d078f894d485e3c34c86b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_6041ea362236881271949ac780565e921903437e.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,25 +134,25 @@
         optimize="true"
         revision="25.0.2"
         sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0\debug\Groceries-runtime-unspecified_f609dd1dba6b2943e8cbce8d274bb032c67f7ea4.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\Groceries-runtime-unspecified_f609dd1dba6b2943e8cbce8d274bb032c67f7ea4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_66cd93c502747ac5a2c8f5bde266973de96b34b4.jar" />
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.balysv-material-ripple-1.0.2_d6ce1f6d5c815dddf0ea7711350339b1b08f4e7c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jar="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="E:\Google Drive\Learning\Learning Typescript\Groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_343d46b7737c68cda26448236201334a859064bb.jar" />
+        <dex dex="E:\Google Drive\Projetos\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-26.0.0-alpha1_bbb25d22046e30efd2d190756fa9909646f82581.jar" />
     </item>
 
 </items>

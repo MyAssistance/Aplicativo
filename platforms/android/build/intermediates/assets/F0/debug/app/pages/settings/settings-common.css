@@ -1,0 +1,21 @@
+.settings-buttons {
+    color: gray;
+    background-color: transparent;
+    font-size: 12;
+    
+    margin-top: 0;
+    text-transform: none;
+    border-color: transparent;
+    border-width: 1;
+
+    border-bottom-color: gray;
+    border-bottom-width: 0.5;
+
+    text-align: left;
+  }
+
+  .settings-labels{
+      color: rgb(124, 124, 245);
+      padding-left: 10;
+  }
+  

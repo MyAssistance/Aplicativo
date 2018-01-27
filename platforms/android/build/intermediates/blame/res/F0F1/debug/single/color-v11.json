@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

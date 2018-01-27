@@ -80,6 +80,10 @@
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\recent.png"
     },
     {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon2.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon2.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo_signup.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo_signup.png"
     },

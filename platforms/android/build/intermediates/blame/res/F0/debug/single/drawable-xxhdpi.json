@@ -12,6 +12,10 @@
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\checked_white.png"
     },
     {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\icon2.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon2.png"
+    },
+    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\logo_login.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo_login.png"
     },

@@ -1,0 +1,56 @@
+<StackLayout> 
+		<Label text="Configurações" backgroundColor="#3A4660" verticalAlignment="center"  class="app-head"> </Label>
+
+	<StackLayout class="settings-stack"> 
+		<RL:Ripple>
+		<GridLayout rows="auto" columns="*,*">
+
+		
+		    <Label (tap)="goList()"
+		        col="0"
+		        class="fa nav"
+		        style="text-align: center;"
+		        [text]="'fa-tasks' | fonticon">
+		    </Label>
+	
+		    <Label
+		        col="1"
+		        class="fa nav navu"
+		        [text]="'fa-user' | fonticon">
+		    </Label>
+
+	  	</GridLayout>
+		
+		</RL:Ripple>
+
+	<Label  text="Minha conta" class="settings-labels"></Label>
+
+	<RL:Ripple>
+		<Button text="Gustavo Morais" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="gustavo.morais@electrolux.com" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<Label text="Mais informações" class="settings-labels"></Label>
+
+	<RL:Ripple>
+		<Button text="Suporte" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Política de Privacidade" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Termos" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+	<RL:Ripple>
+		<Button text="Sair" class="settings-buttons" ></Button>
+	</RL:Ripple>
+
+</StackLayout>
+
+</StackLayout>

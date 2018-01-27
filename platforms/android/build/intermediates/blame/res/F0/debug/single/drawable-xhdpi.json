@@ -36,12 +36,12 @@
         "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\selected.png"
     },
     {
-        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\banana.png",
-        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\banana.png"
-    },
-    {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\unchecked.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\unchecked.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\banana.png",
+        "source": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\banana.png"
     },
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\unchecked_white.png",
@@ -50,6 +50,10 @@
     {
         "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\nonselected.png",
         "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\nonselected.png"
+    },
+    {
+        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon3.png",
+        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon3.png"
     },
     {
         "merged": "E:\\Google Drive\\Learning\\Learning Typescript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\unchecked_white.png",
