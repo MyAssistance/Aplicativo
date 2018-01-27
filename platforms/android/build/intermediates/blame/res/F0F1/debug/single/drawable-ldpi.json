@@ -1,18 +1,10 @@
 [
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\bg_login.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\bg_login.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\bg_login.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\bg_login.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\icon.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\icon.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\bg_login.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-ldpi\\bg_login.png"
     }
 ]

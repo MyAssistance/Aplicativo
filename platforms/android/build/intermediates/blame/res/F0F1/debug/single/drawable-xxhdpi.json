@@ -1,146 +1,74 @@
 [
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\menu.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\menu.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\bg_login.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\bg_login.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\unchecked.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\unchecked.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\nonselected.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\nonselected.png"
     },
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo_signup.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo_signup.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\menu.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\menu.png"
     },
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\apple.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\apple.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\add.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\add.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\delete.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\delete.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\selected.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\selected.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\recent.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\recent.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\checked_white.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\checked_white.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
     },
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\recent.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\recent.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\checked_white.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\checked_white.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\pear.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\pear.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\checked.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\checked.png"
     },
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\checked.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\checked.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon2.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon2.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\unchecked_white.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\unchecked_white.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo_login.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo_login.png"
     },
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\delete.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\unchecked.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\unchecked.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\checked.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\checked.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\unchecked_white.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\unchecked_white.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\recent.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\recent.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\add.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\add.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo_signup.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo_signup.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\nonselected.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\nonselected.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\selected.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\selected.png"
     },
     {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\menu.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\menu.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\banana.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\banana.png"
     },
     {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\bg_login.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\bg_login.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\banana.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\banana.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\nonselected.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\nonselected.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo_login.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo_login.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\pear.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\pear.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\selected.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\selected.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon2.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon2.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\unchecked_white.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\unchecked_white.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\checked_white.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\checked_white.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon2.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon2.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\banana.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\banana.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\delete.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\delete.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\apple.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\apple.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\unchecked.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\unchecked.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\apple.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\apple.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\bg_login.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\bg_login.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo_login.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo_login.png"
-    },
-    {
-        "merged": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo_signup.png",
-        "source": "E:\\Google Drive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo_signup.png"
-    },
-    {
-        "merged": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\add.png",
-        "source": "E:\\GDrive\\Projetos\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\add.png"
+        "merged": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\pear.png",
+        "source": "C:\\Users\\Gus\\Desktop\\My Assistance\\Aplicativo\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\pear.png"
     }
 ]
