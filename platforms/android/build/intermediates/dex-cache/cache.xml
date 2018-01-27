@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.balysv-material-ripple-1.0.2_7bca1ff305c4055190ad2ba0053e2b5c6de90d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\Groceries-runtime-unspecified_43355287983e0a86723a6bec33ece19f9bb6bc79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_d0cab7b7189b33dc70f56b366d5d72b8e08ef57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-26.0.0-alpha1_978dbe30447673ef564dc2868936682ba9bbe812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-26.0.0-alpha1_0f6b483f4953d241029e6512672eaf8a7c419d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_7a927cc2fa3f1066223cfae26a80a4bccbfea596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_c93dcd198fcd0527f3bac08520f84397ed003c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\Groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_633b4e7c0d907b574a6e76a3eb749a203bdd895b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-26.0.0-alpha1_30d9492e6e6599dba21d3af3b54e167aeda8e3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-26.0.0-alpha1_fd50ebc1c36f473c52d1b2f8663ddc0187618aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-26.0.0-alpha1_0e64050e7db35893405b462376c88b865c238d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-26.0.0-alpha1_9dd9dc6084c384337f2435046ff55fe9f44582fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-26.0.0-alpha1_c7e9221280a870b8a784fb72d154cf7e84d8e922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-26.0.0-alpha1_d65f5b87554cca96cab0fee1ecdb3378cb4699a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3b50db2df340e536a5e7169ed6e4e13eb60b31ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gus\Desktop\My Assistance\Aplicativo\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-26.0.0-alpha1_619449baa171274361ffeef21057fb72ca2ac37f.jar" />
+    </item>
+
+</items>

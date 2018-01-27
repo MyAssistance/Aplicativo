@@ -22,6 +22,7 @@
     "nativescript-angular": "~3.0.0",
     "nativescript-gradient": "^2.0.1",
     "nativescript-ngx-fonticon": "^4.0.0",
+    "nativescript-ripple": "^2.0.0",
     "nativescript-theme-core": "~1.0.4",
     "reflect-metadata": "~0.1.8",
     "rxjs": "~5.2.0",
